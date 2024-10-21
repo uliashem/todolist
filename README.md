@@ -5,9 +5,15 @@
 ## Screenshots
 <p align="center">
 <img src="./screen1.png" width="400px" />
-<img src="./screen2.png" width="400px" />
-<img src="./screen3.png" width="400px" />
+</p>
 
+<p align="center">
+<img src="./screen2.png" width="400px" />
+
+</p>
+
+<p align="center">
+<img src="./screen3.png" width="400px" />
 </p>
 
 
