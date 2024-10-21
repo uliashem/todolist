@@ -20,7 +20,7 @@ This application allows you to create a list of things to do during the day.
 ## 💻 Tech stack
 <ul style="display: flex; flex-direction: column; gap:10px;">
   <li style="vertical-align: middle;">
-    React
+    React JS
   </li>
     <li style="vertical-align: middle;">
     JavaScript
